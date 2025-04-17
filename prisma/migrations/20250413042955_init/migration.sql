@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Exam" ALTER COLUMN "result" DROP NOT NULL,
+ALTER COLUMN "attempt" DROP NOT NULL;
