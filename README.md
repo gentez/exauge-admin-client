@@ -87,6 +87,16 @@ Clicking it will automatically generate a quiz for your users based on the artic
 
 ---
 
+## Contributors
+
+Thanks to the amazing contributors who have helped build Exauge:
+
+- [Saad Hasnain Khan](https://github.com/hasnainsaad93)
+- [Muhammad Fahad](https://github.com/Mfahad11)
+- [Maaz Hasnain Khan](https://github.com/maazhasnainkhan)
+
+---
+
 ## License
 
 [MIT](LICENSE)
